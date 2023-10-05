@@ -1,0 +1,48 @@
+body {
+    padding: 0px;
+    background-color: beige;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.uno{
+    width: 200px;
+    height: 100px;
+    background-color: crimson;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 450px;
+    top: 150px;
+}
+
+.dos {
+    width: 200px;
+    height: 300px;
+    background-color: blueviolet;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 450px;
+    top: 250px;
+}
+
+.tres {
+    width: 200px;
+    height: 400px;
+    background-color: aquamarine;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 650px;
+    top: 150px;
+}
+
